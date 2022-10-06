@@ -1,0 +1,42 @@
+body{
+    background-color:#E3FDFD;
+}
+hr {
+    border-style: dotted none none;
+    width: 80%;
+    border-color: #686c6c;
+    border-width: 5px;
+}
+h1{
+  font-family: "Extraordinaire Demo";
+  color: #71C9CE;
+}
+p{
+  font-family: "kamada";
+  color: #393E46;
+  font-size: larger;
+}
+h3{
+  font-family: "Extraordinaire Demo";
+  color: #71C9CE;
+  font-size: small;
+}
+tr{
+  font-family:"kamada";
+  color: #393E46;
+  padding: 1px;
+}
+h4{
+  font-family: "Extraordinaire Demo";
+  color: #71C9CE;
+}
+form{
+  font-family: "kamada";
+  color: #393E46;
+  font-size: larger;
+}
+ul{
+  font-family: "kamada";
+  color: #393E46;
+  font-size: larger;
+}
